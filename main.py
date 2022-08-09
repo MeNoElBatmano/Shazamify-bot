@@ -17,8 +17,6 @@ from sqlalchemy import false, null, true
 import authentication
 import json
 import telegram_api
-"K_[7>*[AMu!/W3#="
-'postgresql://yfiaihzuhsdvez:017a4ebc2f7e453828e0fa49125d4e9fb8830f663625b8ac834b6d68fa724137@ec2-34-253-119-24.eu-west-1.compute.amazonaws.com:5432/df499lq9jknjc3'
 
 config = dotenv_values(".env")
 
